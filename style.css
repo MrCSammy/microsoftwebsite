@@ -1,1 +1,9 @@
-Css
+a.lrnMre{
+    text-decoration: none;
+}
+a.lrnMre:hover{
+    text-decoration: underline;
+}
+.img1{
+    justify-content:right;
+}
