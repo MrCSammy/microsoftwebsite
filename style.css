@@ -4,6 +4,58 @@ a.lrnMre{
 a.lrnMre:hover{
     text-decoration: underline;
 }
-.img1{
-    justify-content:right;
+.jumbo{
+    box-sizing: border-box;
+    padding: 2rem 3rem;
+    background-color: rgb(221, 221, 221);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline:1px grey;
+}
+.text{
+        text-align:left;
+        padding-top: 100px;
+        float:left;
+        padding-right:300px;
+}
+.text-1{
+    padding-top:2px;
+}
+.img2{
+    text-decoration: none;
+}
+/* .mar{
+    margin-left:auto;
+} */
+.gridA{
+   color: darkblue;
+   text-decoration: underline;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font: bold;
+}
+footer{
+    margin-top: 16px;
+}
+.covid{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font:15px bold;
+}
+.jump{
+    text-align: center;
+}
+.covid:hover, .covid:active{
+    text-decoration: underline;
+    color: darkblue;
+    font:20px bolder;
+}
+.text-2, p{
+    font-family: sans-serif;
+    text-align: center;
+}
+.ancor{
+padding-right: 5px;
+width: 30px;
+height: 20px;
 }
